@@ -7,5 +7,5 @@ I enjoy uncovering trends, solving business problems, and creating data-driven s
 I am open to opportunities, collaborations, and projects that leverage data to drive impact.
 
 
-**Below are some of the projects I have worked on
-**
+## **Below are some of the projects I have worked on**
+
